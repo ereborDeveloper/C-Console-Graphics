@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (15a.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+c:\users\1\source\repos\16\15a\fraction.h(61): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\1\source\repos\16\15a\circle.h(72): warning C4838: преобразование из "double" в "LONG" требует сужающего преобразования
+c:\users\1\source\repos\16\15a\circle.h(72): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+c:\users\1\source\repos\16\15a\circle.h(52): warning C4101: xx: неиспользованная локальная переменная
+  15a.vcxproj -> C:\Users\1\source\repos\16\Debug\16.exe
